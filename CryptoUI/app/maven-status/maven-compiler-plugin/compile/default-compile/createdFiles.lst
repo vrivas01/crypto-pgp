@@ -1,5 +1,0 @@
-org\compartamos\crypto\MainFrame.class
-org\compartamos\crypto\util\KeyUtils.class
-org\compartamos\crypto\MainApp.class
-org\compartamos\crypto\service\CryptoService.class
-org\compartamos\crypto\util\PgpUtils.class
